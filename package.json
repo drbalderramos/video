@@ -3,7 +3,8 @@
     "start": "snowpack dev",
     "build": "snowpack build",
     "format": "prettier --write \"src/**/*.js\"",
-    "lint": "prettier --check \"src/**/*.js\""
+    "lint": "prettier --check \"src/**/*.js\"",
+    "homepage": "https://drbalderramos.github.io/video/"
   },
   "devDependencies": {
     "husky": "^4.3.8",
